@@ -24,8 +24,8 @@ Ce projet présente un exemple complet de fine-tuning d’un modèle de langage 
 1. Cloner ce dépôt ou télécharger le notebook.
 2. Installer les dépendances :
 
-```bash
-pip install transformers datasets evaluate scikit-learn torch 
+
+```pip install transformers datasets evaluate scikit-learn torch 
 ```|
 ## 🚀 Instructions d'utilisation
 
