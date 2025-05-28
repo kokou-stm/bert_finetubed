@@ -25,8 +25,7 @@ Ce projet présente un exemple complet de fine-tuning d’un modèle de langage 
 2. Installer les dépendances :
 
 
-```pip install transformers datasets evaluate scikit-learn torch 
-```|
+```pip install transformers datasets evaluate scikit-learn torch ```|
 ## 🚀 Instructions d'utilisation
 
 Lancer le notebook `FineTuningLLM_with_IMDB_Dataset.ipynb`.
