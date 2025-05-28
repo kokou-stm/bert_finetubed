@@ -25,7 +25,8 @@ Ce projet présente un exemple complet de fine-tuning d’un modèle de langage 
 2. Installer les dépendances :
 
 ```bash
-pip install transformers datasets evaluate scikit-learn torch
+pip install transformers datasets evaluate scikit-learn torch 
+```|
 ## 🚀 Instructions d'utilisation
 
 Lancer le notebook `FineTuningLLM_with_IMDB_Dataset.ipynb`.
@@ -48,3 +49,19 @@ Le modèle atteint une précision et une F1-score compétitives sur l'ensemble d
 ## 📝 Auteurs
 
 Ce projet a été réalisé à titre pédagogique pour illustrer le fine-tuning de modèles de langage avec Hugging Face.
+
+
+## 📁 Fichiers
+
+    FineTuningLLM_with_IMDB_Dataset.ipynb : Notebook principal avec tout le code.
+
+    model/ : Dossier prévu pour sauvegarder le modèle fine-tuné (créé automatiquement).
+
+## 🤝 Contribution
+
+Les contributions sont les bienvenues !
+Merci de soumettre un pull request ou d’ouvrir une issue pour discuter de modifications majeures avant de les proposer.
+📄 Licence
+
+Ce projet est sous licence MIT.
+Vous êtes libre de l’utiliser, le modifier et le distribuer avec mention de l’auteur original.
